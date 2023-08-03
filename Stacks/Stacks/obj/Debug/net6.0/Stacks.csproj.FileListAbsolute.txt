@@ -1,0 +1,15 @@
+C:\Users\nmeher\OneDrive - DXC Production\Documents\A&E-CM-MES#2\RTMS\学習(Study Material)\Stacks\Stacks\bin\Debug\net6.0\Stacks.exe
+C:\Users\nmeher\OneDrive - DXC Production\Documents\A&E-CM-MES#2\RTMS\学習(Study Material)\Stacks\Stacks\bin\Debug\net6.0\Stacks.deps.json
+C:\Users\nmeher\OneDrive - DXC Production\Documents\A&E-CM-MES#2\RTMS\学習(Study Material)\Stacks\Stacks\bin\Debug\net6.0\Stacks.runtimeconfig.json
+C:\Users\nmeher\OneDrive - DXC Production\Documents\A&E-CM-MES#2\RTMS\学習(Study Material)\Stacks\Stacks\bin\Debug\net6.0\Stacks.dll
+C:\Users\nmeher\OneDrive - DXC Production\Documents\A&E-CM-MES#2\RTMS\学習(Study Material)\Stacks\Stacks\bin\Debug\net6.0\Stacks.pdb
+C:\Users\nmeher\OneDrive - DXC Production\Documents\A&E-CM-MES#2\RTMS\学習(Study Material)\Stacks\Stacks\obj\Debug\net6.0\Stacks.csproj.AssemblyReference.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\A&E-CM-MES#2\RTMS\学習(Study Material)\Stacks\Stacks\obj\Debug\net6.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmeher\OneDrive - DXC Production\Documents\A&E-CM-MES#2\RTMS\学習(Study Material)\Stacks\Stacks\obj\Debug\net6.0\Stacks.AssemblyInfoInputs.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\A&E-CM-MES#2\RTMS\学習(Study Material)\Stacks\Stacks\obj\Debug\net6.0\Stacks.AssemblyInfo.cs
+C:\Users\nmeher\OneDrive - DXC Production\Documents\A&E-CM-MES#2\RTMS\学習(Study Material)\Stacks\Stacks\obj\Debug\net6.0\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\A&E-CM-MES#2\RTMS\学習(Study Material)\Stacks\Stacks\obj\Debug\net6.0\Stacks.dll
+C:\Users\nmeher\OneDrive - DXC Production\Documents\A&E-CM-MES#2\RTMS\学習(Study Material)\Stacks\Stacks\obj\Debug\net6.0\refint\Stacks.dll
+C:\Users\nmeher\OneDrive - DXC Production\Documents\A&E-CM-MES#2\RTMS\学習(Study Material)\Stacks\Stacks\obj\Debug\net6.0\Stacks.pdb
+C:\Users\nmeher\OneDrive - DXC Production\Documents\A&E-CM-MES#2\RTMS\学習(Study Material)\Stacks\Stacks\obj\Debug\net6.0\Stacks.genruntimeconfig.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\A&E-CM-MES#2\RTMS\学習(Study Material)\Stacks\Stacks\obj\Debug\net6.0\ref\Stacks.dll
